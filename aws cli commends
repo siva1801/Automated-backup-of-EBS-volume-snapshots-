@@ -1,0 +1,13 @@
+** # CLI COMMENDS **
+
+- aws configure -- 
+- aws ec2 run-instanace --
+- aws ec2 describe-instance --
+- aws ec2 describe-volume --
+- aws ec2 create-snapshot --volume-id <ID> --description "" --region <>
+- aws ec2 describe-snapshot --owner-ids self
+- aws ec2 delete-snapshot --snapshot-id <>
+- aws ec2 terminate-instances --instance-ids <>
+- crontab -e --
+- crontab -l --
+- crontab -r -- 
